@@ -1,0 +1,10 @@
+{
+  "name": "uno-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "node.js": "^0.0.1-security",
+    "socket.io": "^4.4.1"
+  }
+}
